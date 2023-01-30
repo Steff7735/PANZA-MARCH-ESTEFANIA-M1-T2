@@ -1,0 +1,90 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+header{
+    background-color: darkturquoise;
+    font-style: italic;
+    text-align: center;
+    color: blue;
+    border-bottom: 10px solid white;
+
+}
+header h1{
+    color:blueviolet;
+    font-size: 50px;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    
+}
+header h2{
+    font-size:30px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+header div h3{
+    font-size:20px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+header div p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+header img {
+    width: 100%;
+    max-height: 100%;
+    height: auto;
+    
+}
+nav{
+    background-color:darkturquoise;
+    height: 50px;
+    border-bottom: 10px solid white;
+    font-style: italic;
+}
+nav ul li{
+    float: right;
+    list-style: none;
+    margin: 15px;
+    line-height: 20px;;
+}
+.clearfix{
+    clear: both;
+}
+#content{
+    background-color: darkturquoise;
+    font-style: italic;
+    font-size: 15px;
+    text-align: center;
+    color: blue;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-bottom: 10px solid white;
+
+}
+.article{
+    margin-top:15px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+}
+.article h2{
+    font-size: 30px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+footer{
+    background-color: darkturquoise;
+    font-style: italic;
+    text-align: center;
+    color: blue;
+    border-bottom: 10px solid white;
+     
+}
